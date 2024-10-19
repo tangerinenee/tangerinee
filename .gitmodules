@@ -1,0 +1,6 @@
+[submodule "back"]
+	path = back
+	url = https://github.com/ds5105119/tangerineAPI
+[submodule "front"]
+	path = front
+	url = https://github.com/ds5105119/tangerineFront
