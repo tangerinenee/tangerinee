@@ -676,7 +676,7 @@ graph TD
 ### 🔗 링크
 
 - <a href="https://www.figma.com/slides/RSDOtRS8czig44KfS2KIsz/%EA%B0%90%EA%B7%A4%EB%A7%88%EC%BC%93?node-id=45-998&t=SbiKTlXGDagBqhHY-1">Figma 프레젠테이션</a>
-- <a href="https://www.figma.com/slides/RSDOtRS8czig44KfS2KIsz/%EA%B0%90%EA%B7%A4%EB%A7%88%EC%BC%93?node-id=45-998&t=SbiKTlXGDagBqhHY-1">Notion</a>
+- <a href="https://vigorous-summer-9f1.notion.site/89dc553d9e8a4fcda178f5a1bcac4ce7">Notion</a>
 - <a href="https://tangerine-api-team.postman.co/workspace/Tangerine-API-Team-Workspace~05179f5a-80ce-481d-82a7-cfa74047d826/collection/38512945-a666df90-6e00-49bd-8494-06f8ae77fee0?action=share&creator=38512945&active-environment=38512945-42ce9e02-2117-4298-8122-e9199d15f767">Postman</a>
 
 ### 시연 영상
